@@ -15,6 +15,7 @@ const App: React.FC = () => {
             <Route path="/sports" element={<div>Sports Content</div>} />
             <Route path="/tvshows" element={<div>TV Shows Content</div>} />
             <Route path="/kids" element={<div>Kids Content</div>} />
+            <Route path="/infants" element={<div>Kids Content</div>} />
           </Routes>
         </div>
       </div>

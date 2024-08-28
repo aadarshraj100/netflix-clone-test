@@ -22,6 +22,9 @@ const Sidebar: React.FC = () => {
         <li>
           <Link to="/kids">Kids</Link>
         </li>
+        <li>
+          <Link to="/Infants">infants</Link>
+        </li>
       </ul>
     </div>
   );
